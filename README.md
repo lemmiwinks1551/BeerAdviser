@@ -1,2 +1,2 @@
 # BeerAdviser
-Best application ever made!)
+Создание TextView, установка полей
